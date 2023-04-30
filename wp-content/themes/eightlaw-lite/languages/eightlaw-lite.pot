@@ -1,0 +1,1547 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: EightLaw Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-22 10:54+0000\n"
+"POT-Revision-Date: Mon Aug 15 2016 16:58:37 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:24
+msgid "404"
+msgstr ""
+
+#: 404.php:25
+msgid "error"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:34
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:37
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:40
+msgid "Asides"
+msgstr ""
+
+#: archive.php:43
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:46
+msgid "Images"
+msgstr ""
+
+#: archive.php:49
+msgid "Videos"
+msgstr ""
+
+#: archive.php:52
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:55
+msgid "Links"
+msgstr ""
+
+#: archive.php:58
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:61
+msgid "Audios"
+msgstr ""
+
+#: archive.php:64
+msgid "Chats"
+msgstr ""
+
+#: archive.php:67
+msgid "Archives"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:53
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:55
+msgid "WordPress Theme : "
+msgstr ""
+
+#: footer.php:55
+msgid "Free WordPress Theme"
+msgstr ""
+
+#. Theme URI of the theme
+#: footer.php:55
+msgid "https://demo.8degreethemes.com/eightlaw-lite/"
+msgstr ""
+
+#: footer.php:55
+msgid "Eightlaw Lite"
+msgstr ""
+
+#: footer.php:56
+msgid " by 8Degree Themes"
+msgstr ""
+
+#: functions.php:50 header.php:107
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:111
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:119 inc/customizer.php:1880 inc/customizer.php:2017
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:121 functions.php:130
+msgid "Add widgets here to show in Right Sidebar."
+msgstr ""
+
+#: functions.php:128 inc/customizer.php:1879 inc/customizer.php:2016
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:137
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:139
+msgid "Add widgets here to show in Footer 1."
+msgstr ""
+
+#: functions.php:146
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:148
+msgid "Add widgets here to show in Footer 2."
+msgstr ""
+
+#: functions.php:155
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:157
+msgid "Add widgets here to show in Footer 3."
+msgstr ""
+
+#: functions.php:164
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:166
+msgid "Add widgets here to show in Footer 4."
+msgstr ""
+
+#: functions.php:173
+msgid "Widget Icon"
+msgstr ""
+
+#: functions.php:175
+msgid "Add widgets here to show in Widget Icon Area."
+msgstr ""
+
+#: functions.php:182
+msgid "Language Switchter"
+msgstr ""
+
+#: functions.php:184
+msgid "Add Polylang or WPML Language Switchter Widget."
+msgstr ""
+
+#: header.php:35
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:117
+msgid "Select Primary Menu"
+msgstr ""
+
+#: search.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:6 inc/customizer.php:110
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:7 inc/customizer.php:129
+msgid "Search"
+msgstr ""
+
+#: searchform.php:15 searchform.php:16
+msgid "Search for:"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: tpl-homepage.php:46 inc/customizer.php:210 inc/customizer.php:409
+#: inc/customizer.php:779 inc/customizer.php:857 inc/customizer.php:1002
+#: inc/eightlaw-lite-function.php:140
+msgid "Details"
+msgstr ""
+
+#: tpl-homepage.php:69 inc/customizer.php:448
+msgid "Our Moto"
+msgstr ""
+
+#: tpl-homepage.php:73 inc/customizer.php:481
+msgid "Immanuel Kant"
+msgstr ""
+
+#: tpl-homepage.php:93 inc/customizer.php:1455
+msgid "Know More"
+msgstr ""
+
+#: tpl-homepage.php:158 inc/customizer.php:1327
+msgid "We fight for you"
+msgstr ""
+
+#: tpl-homepage.php:172 tpl-homepage.php:346 tpl-homepage.php:485
+#: inc/customizer.php:772 inc/customizer.php:850 inc/customizer.php:995
+msgid "View More"
+msgstr ""
+
+#: tpl-homepage.php:178 inc/customizer.php:812
+msgid "Simple Process"
+msgstr ""
+
+#: tpl-homepage.php:214 inc/customizer.php:550
+msgid "Practice"
+msgstr ""
+
+#: tpl-homepage.php:217 tpl-homepage.php:644 tpl-homepage.php:719
+#: inc/customizer.php:613 inc/customizer.php:1175 inc/customizer.php:1225
+#: inc/customizer.php:1822 template-parts/content-search.php:25
+#: template-parts/content.php:16 template-parts/content.php:17
+msgid "Read More"
+msgstr ""
+
+#: tpl-homepage.php:281 inc/customizer.php:670 inc/customizer.php:683
+msgid "Gallery"
+msgstr ""
+
+#: tpl-homepage.php:351 inc/customizer.php:970
+msgid "Benefits"
+msgstr ""
+
+#: tpl-homepage.php:409 inc/customizer.php:1032
+msgid "Client Logo"
+msgstr ""
+
+#: tpl-homepage.php:442
+msgid "Testimonials"
+msgstr ""
+
+#: tpl-homepage.php:491 inc/customizer.php:709 inc/customizer.php:734
+msgid "Team Member Section"
+msgstr ""
+
+#: tpl-homepage.php:546 inc/customizer.php:889 inc/customizer.php:1768
+#: inc/customizer.php:1794
+msgid "Blog"
+msgstr ""
+
+#: tpl-homepage.php:574 template-parts/content.php:106
+#: template-parts/content.php:139 template-parts/content.php:175
+msgid "No comment"
+msgstr ""
+
+#: tpl-homepage.php:574 inc/template-tags.php:122
+#: template-parts/content.php:106 template-parts/content.php:139
+#: template-parts/content.php:175
+msgid "1 Comment"
+msgstr ""
+
+#: tpl-homepage.php:574 inc/template-tags.php:122
+#: template-parts/content.php:106 template-parts/content.php:139
+#: template-parts/content.php:175
+msgid "% Comments"
+msgstr ""
+
+#: tpl-homepage.php:607 inc/customizer.php:1289
+msgid "Contact Us, Its Free"
+msgstr ""
+
+#: tpl-homepage.php:640 inc/customizer.php:1150
+msgid "Latest Posts"
+msgstr ""
+
+#: tpl-homepage.php:697 inc/customizer.php:1212
+msgid "Latest News"
+msgstr ""
+
+#: inc/contact-form-dropdown.php:31
+msgid "Choose Form"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Default/Basic Setting"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Webpage Layout"
+msgstr ""
+
+#: inc/customizer.php:47 inc/customizer.php:155
+msgid "Choose the layout that you want"
+msgstr ""
+
+#: inc/customizer.php:51 inc/customizer.php:1982
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:52 inc/customizer.php:1983
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:79 welcome/sections/getting_started.php:21
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Show Search in Header"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Check to Show Search in Header"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Search Placeholder Text"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Search Button Text"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Logo Alignment"
+msgstr ""
+
+#: inc/customizer.php:159 inc/customizer.php:2004
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:160 inc/customizer.php:2005
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:161 inc/customizer.php:2006
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Homepage Sections"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Enable Disable Slider"
+msgstr ""
+
+#: inc/customizer.php:191 inc/customizer.php:356 inc/customizer.php:441
+#: inc/customizer.php:543 inc/customizer.php:663 inc/customizer.php:726
+#: inc/customizer.php:804 inc/customizer.php:882 inc/customizer.php:963
+#: inc/customizer.php:1026 inc/customizer.php:1077 inc/customizer.php:1143
+#: inc/customizer.php:1206 inc/customizer.php:1270 inc/customizer.php:1321
+#: inc/customizer.php:1515 inc/customizer.php:1532 inc/customizer.php:2077
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer.php:192 inc/customizer.php:357 inc/customizer.php:442
+#: inc/customizer.php:544 inc/customizer.php:664 inc/customizer.php:727
+#: inc/customizer.php:805 inc/customizer.php:883 inc/customizer.php:964
+#: inc/customizer.php:1027 inc/customizer.php:1078 inc/customizer.php:1144
+#: inc/customizer.php:1207 inc/customizer.php:1271 inc/customizer.php:1322
+#: inc/customizer.php:1516 inc/customizer.php:1533 inc/customizer.php:2078
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Select a category to show in slider"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Slider Button Text"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "Show Pager / Navigation Dot"
+msgstr ""
+
+#: inc/customizer.php:235 inc/customizer.php:253 inc/customizer.php:289
+#: inc/customizer.php:332 inc/customizer.php:2089
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:236 inc/customizer.php:254 inc/customizer.php:290
+#: inc/customizer.php:333 inc/customizer.php:2090
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Show Controls"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Slider Transitions (Slide/Fade)"
+msgstr ""
+
+#: inc/customizer.php:271 inc/customizer.php:2109
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer.php:272 inc/customizer.php:2110
+msgid "Slide Horizontal"
+msgstr ""
+
+#: inc/customizer.php:273 inc/customizer.php:2111
+msgid "Slide Vertical"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Show Auto Transitions"
+msgstr ""
+
+#: inc/customizer.php:302
+msgid "Slider Speed"
+msgstr ""
+
+#: inc/customizer.php:315
+msgid "Slider Pause"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Show Caption"
+msgstr ""
+
+#: inc/customizer.php:339
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer.php:352
+msgid "Enable Disable About Us Section"
+msgstr ""
+
+#: inc/customizer.php:377
+msgid "Select a Post to show in About Us Section"
+msgstr ""
+
+#: inc/customizer.php:397
+msgid "About Layout"
+msgstr ""
+
+#: inc/customizer.php:401 inc/customizer.php:604 inc/customizer.php:2122
+msgid "Layout 1"
+msgstr ""
+
+#: inc/customizer.php:402 inc/customizer.php:605 inc/customizer.php:2123
+msgid "Layout 2"
+msgstr ""
+
+#: inc/customizer.php:416
+msgid "About View More Text"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Call To Action Section"
+msgstr ""
+
+#: inc/customizer.php:437
+msgid "Enable Disable Call To Action"
+msgstr ""
+
+#: inc/customizer.php:455
+msgid "Call To Action Title"
+msgstr ""
+
+#: inc/customizer.php:471
+msgid "Call To Description"
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "Call To Action Read More Text"
+msgstr ""
+
+#: inc/customizer.php:502
+msgid "Call To Action Link"
+msgstr ""
+
+#: inc/customizer.php:514
+msgid "Background Image for Call to Action"
+msgstr ""
+
+#: inc/customizer.php:524
+msgid "Practice Section"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Enable Disable Practice"
+msgstr ""
+
+#: inc/customizer.php:557
+msgid "Practice Title"
+msgstr ""
+
+#: inc/customizer.php:570
+msgid "Practice Section Description"
+msgstr ""
+
+#: inc/customizer.php:581
+msgid "Image for Practice Section"
+msgstr ""
+
+#: inc/customizer.php:600
+msgid "Practice Layout"
+msgstr ""
+
+#: inc/customizer.php:620 inc/customizer.php:1462
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:636 inc/customizer.php:1478
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer.php:646
+msgid "Gallery Section"
+msgstr ""
+
+#: inc/customizer.php:659
+msgid "Enable Disable Gallery Section"
+msgstr ""
+
+#: inc/customizer.php:677
+msgid "Gallery Section Title"
+msgstr ""
+
+#: inc/customizer.php:690
+msgid "Gallery Section Description"
+msgstr ""
+
+#: inc/customizer.php:702
+msgid "Select a Category to show in Gallery Section in Slider"
+msgstr ""
+
+#: inc/customizer.php:722
+msgid "Enable Disable Team Member"
+msgstr ""
+
+#: inc/customizer.php:741
+msgid "Team Memeber Title"
+msgstr ""
+
+#: inc/customizer.php:754
+msgid "Team Section Description"
+msgstr ""
+
+#: inc/customizer.php:766
+msgid "Select a Category to show in Team Member Section"
+msgstr ""
+
+#: inc/customizer.php:787
+msgid "Case Section"
+msgstr ""
+
+#: inc/customizer.php:800
+msgid "Enable Disable Case section"
+msgstr ""
+
+#: inc/customizer.php:819
+msgid "Case Title"
+msgstr ""
+
+#: inc/customizer.php:832
+msgid "Case Section Description"
+msgstr ""
+
+#: inc/customizer.php:844
+msgid "Select a Category to show in Case section"
+msgstr ""
+
+#: inc/customizer.php:865
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer.php:878
+msgid "Enable Disable Blog Section"
+msgstr ""
+
+#: inc/customizer.php:896
+msgid "Blog Section Title"
+msgstr ""
+
+#: inc/customizer.php:909
+msgid "Blog Section Description"
+msgstr ""
+
+#: inc/customizer.php:924
+msgid "Select a category to show in blog section"
+msgstr ""
+
+#: inc/customizer.php:938
+msgid "BCT Section"
+msgstr ""
+
+#: inc/customizer.php:939
+msgid "Settings for Benefit tab, client and testimonial slider."
+msgstr ""
+
+#: inc/customizer.php:959
+msgid "Enable Disable Benefit Section"
+msgstr ""
+
+#: inc/customizer.php:977
+msgid "Benefit Section Title"
+msgstr ""
+
+#: inc/customizer.php:990
+msgid "Select a category to show in benefit section"
+msgstr ""
+
+#: inc/customizer.php:1022
+msgid "Enable Disable Client Logo Section"
+msgstr ""
+
+#: inc/customizer.php:1039
+msgid "Client's Title"
+msgstr ""
+
+#: inc/customizer.php:1052
+msgid "Select a Category to show in Client Logo Section"
+msgstr ""
+
+#: inc/customizer.php:1073
+msgid "Enable Disable Testimonial Section"
+msgstr ""
+
+#: inc/customizer.php:1091
+msgid "Testimonial Section Title"
+msgstr ""
+
+#: inc/customizer.php:1104
+msgid "Select a category to show in testimonial section"
+msgstr ""
+
+#: inc/customizer.php:1118
+msgid "Latest Section"
+msgstr ""
+
+#: inc/customizer.php:1119
+msgid "Settings for Latest Post and News."
+msgstr ""
+
+#: inc/customizer.php:1139
+msgid "Enable Disable Latest Post Section"
+msgstr ""
+
+#: inc/customizer.php:1157
+msgid "Latestpost Section Title"
+msgstr ""
+
+#: inc/customizer.php:1169
+msgid "No. of Latest post"
+msgstr ""
+
+#: inc/customizer.php:1182
+msgid "Latest Posts Read More Button Text"
+msgstr ""
+
+#: inc/customizer.php:1202
+msgid "Enable Disable Latest News Section"
+msgstr ""
+
+#: inc/customizer.php:1219
+msgid "Latestnews Section Title"
+msgstr ""
+
+#: inc/customizer.php:1232
+msgid "Latest News Read More Button Text"
+msgstr ""
+
+#: inc/customizer.php:1244
+msgid "Select a Category to show in Latestnews Section"
+msgstr ""
+
+#: inc/customizer.php:1253
+msgid "Contact Form Section"
+msgstr ""
+
+#: inc/customizer.php:1266
+msgid "Enable Disable Contact Form Section"
+msgstr ""
+
+#: inc/customizer.php:1283
+msgid "Select a Contact Form"
+msgstr ""
+
+#: inc/customizer.php:1296
+msgid "Contact Form Title"
+msgstr ""
+
+#: inc/customizer.php:1304
+msgid "Law Section"
+msgstr ""
+
+#: inc/customizer.php:1317
+msgid "Enable Disable Law Section"
+msgstr ""
+
+#: inc/customizer.php:1334
+msgid "Law Section Title"
+msgstr ""
+
+#: inc/customizer.php:1348
+msgid "Law Section Description"
+msgstr ""
+
+#: inc/customizer.php:1361
+msgid "Law Post 1"
+msgstr ""
+
+#: inc/customizer.php:1380
+msgid "Font Awesome icon name </br> Example: fa-trophy"
+msgstr ""
+
+#: inc/customizer.php:1395
+msgid "Law Post 2"
+msgstr ""
+
+#: inc/customizer.php:1414
+msgid "Font Awesome icon name </br> Example: fa-print"
+msgstr ""
+
+#: inc/customizer.php:1429
+msgid "Law Post 3"
+msgstr ""
+
+#: inc/customizer.php:1448
+msgid "Font Awesome icon name </br> Example: fa-group"
+msgstr ""
+
+#: inc/customizer.php:1492 welcome/sections/getting_started.php:41
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:1498
+msgid "Social Section"
+msgstr ""
+
+#: inc/customizer.php:1511
+msgid "Enable Disable Social Icons in Header"
+msgstr ""
+
+#: inc/customizer.php:1528
+msgid "Enable Disable Social Icons in Footer"
+msgstr ""
+
+#: inc/customizer.php:1545
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:1558
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:1571
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer.php:1584
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer.php:1597
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:1610
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer.php:1623
+msgid "Flicker"
+msgstr ""
+
+#: inc/customizer.php:1637
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer.php:1650
+msgid "Stumbleupon"
+msgstr ""
+
+#: inc/customizer.php:1663
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php:1676
+msgid "Sound Cloud"
+msgstr ""
+
+#: inc/customizer.php:1689
+msgid "Git Hub"
+msgstr ""
+
+#: inc/customizer.php:1702
+msgid "Tumbler"
+msgstr ""
+
+#: inc/customizer.php:1715
+msgid "Skype"
+msgstr ""
+
+#: inc/customizer.php:1728
+msgid "RSS"
+msgstr ""
+
+#: inc/customizer.php:1737
+msgid "Innerpage Settings"
+msgstr ""
+
+#: inc/customizer.php:1743
+msgid "Testimonial"
+msgstr ""
+
+#: inc/customizer.php:1756
+msgid "Testimonial Layout"
+msgstr ""
+
+#: inc/customizer.php:1760 inc/customizer.php:1817 inc/customizer.php:1853
+#: inc/customizer.php:2053
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer.php:1761 inc/customizer.php:1818 inc/customizer.php:1854
+#: inc/customizer.php:2054
+msgid "List"
+msgstr ""
+
+#: inc/customizer.php:1781
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:1785 inc/customizer.php:2064
+msgid "Large Image"
+msgstr ""
+
+#: inc/customizer.php:1786 inc/customizer.php:2065
+msgid "Medium Image"
+msgstr ""
+
+#: inc/customizer.php:1787 inc/customizer.php:2066
+msgid "Alternate Image"
+msgstr ""
+
+#: inc/customizer.php:1803
+msgid "Archive"
+msgstr ""
+
+#: inc/customizer.php:1813
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer.php:1828
+msgid "Read More Text for Archive list"
+msgstr ""
+
+#: inc/customizer.php:1836
+msgid "Team Member"
+msgstr ""
+
+#: inc/customizer.php:1849
+msgid "Team Member Layout"
+msgstr ""
+
+#: inc/customizer.php:1861 inc/eightlaw-lite-metabox.php:8
+#: inc/eightlaw-lite-metabox.php:15
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:1875
+msgid "Choose the sidebar Layout for the archive page"
+msgstr ""
+
+#: inc/customizer.php:1881 inc/customizer.php:2018
+#: inc/eightlaw-lite-metabox.php:35
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1882 inc/customizer.php:2019
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1894
+msgid "Banner Setting"
+msgstr ""
+
+#: inc/customizer.php:1903
+msgid "Single Page Banner Image"
+msgstr ""
+
+#: inc/customizer.php:1918 inc/customizer.php:1943 inc/customizer.php:1969
+msgid "Banner Image"
+msgstr ""
+
+#: inc/customizer.php:1919
+msgid "This Image will be used in single page Banner section background imgae"
+msgstr ""
+
+#: inc/customizer.php:1928
+msgid "Single Post Banner Image"
+msgstr ""
+
+#: inc/customizer.php:1944
+msgid "This Image will be used in single post banner section background imgae"
+msgstr ""
+
+#: inc/customizer.php:1954
+msgid "Archive Banner Image"
+msgstr ""
+
+#: inc/customizer.php:1970
+msgid ""
+"This Image will be used in single category banner section background imgae"
+msgstr ""
+
+#: inc/customizer.php:1993
+msgid "Transparent"
+msgstr ""
+
+#: inc/customizer.php:1994
+msgid "Classic"
+msgstr ""
+
+#: inc/customizer.php:2030
+msgid "Static"
+msgstr ""
+
+#: inc/customizer.php:2031
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer.php:2041
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer.php:2042
+msgid "Regular"
+msgstr ""
+
+#: inc/customizer.php:2043
+msgid "Extended"
+msgstr ""
+
+#: inc/eightlaw-lite-controls.php:17
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/eightlaw-lite-function.php:294 welcome/welcome-config.php:48
+msgid "Activate"
+msgstr ""
+
+#: inc/eightlaw-lite-function.php:295 welcome/welcome-config.php:57
+#: welcome/welcome-config.php:58
+msgid "Activated"
+msgstr ""
+
+#: inc/eightlaw-lite-function.php:296 welcome/welcome-config.php:59
+msgid "Installing Demo"
+msgstr ""
+
+#: inc/eightlaw-lite-function.php:297 welcome/welcome-config.php:60
+msgid "Demo Installed"
+msgstr ""
+
+#: inc/eightlaw-lite-function.php:298 welcome/welcome-config.php:61
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#: inc/eightlaw-lite-metabox.php:25
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/eightlaw-lite-metabox.php:30
+msgid "Right sidebar<br/>(default)"
+msgstr ""
+
+#: inc/eightlaw-lite-metabox.php:41
+msgid "No sidebar"
+msgstr ""
+
+#: inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108 inc/template-tags.php:114
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:110
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:116
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:126 template-parts/content-page.php:30
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:18
+msgid "Pages:"
+msgstr ""
+
+#: welcome/welcome-config.php:14
+msgid "Instant Demo Importer"
+msgstr ""
+
+#: welcome/welcome-config.php:19
+msgid ""
+"Access Demo Importer Plugin adds the feature to Import the Demo Conent with "
+"a single click."
+msgstr ""
+
+#: welcome/welcome-config.php:42
+msgid "Eightlaw Lite Setup"
+msgstr ""
+
+#. Description of the theme
+#: welcome/welcome-config.php:43
+msgid ""
+"EightLaw Lite is free responsive lawyer WordPress theme. It is a clean, "
+"minimalist, modern theme ideal for lawyers, law firms and agencies, private "
+"attorneys, business consultation, blogging or personal websites. Built on "
+"WordPress Live Customizer using cutting-edge technology, it offers you a "
+"professional design and powerful support. It is free, yet feature-rich law "
+"firm WordPress template. It features full-screen beautiful sliders, multiple "
+"sidebar options, team section layouts: grid or list, multiple blog layouts, "
+"testimonial section layouts: grid or list, media gallery in carousel slider, "
+"contact forms, CTA, social media icons etc. On top of everything, EightLaw "
+"Lite is simple and super user-friendly. Demo: https://8degreethemes."
+"com/demo/eightlaw-lite Support forum: support@8degreethemes.com"
+msgstr ""
+
+#: welcome/welcome-config.php:46
+msgid "Install and Activate"
+msgstr ""
+
+#: welcome/welcome-config.php:47
+msgid "Deactivate"
+msgstr ""
+
+#: welcome/welcome-config.php:51
+msgid "Pro Plugins"
+msgstr ""
+
+#: welcome/welcome-config.php:52
+msgid "Take Advantage of some of our Premium Plugins."
+msgstr ""
+
+#: welcome/welcome-config.php:53
+msgid "Free Plugins"
+msgstr ""
+
+#: welcome/welcome-config.php:54
+msgid "These Free Plugins might be handy for you."
+msgstr ""
+
+#: welcome/welcome-config.php:64
+msgid "All Recommended action has been successfully completed."
+msgstr ""
+
+#: welcome/welcome-config.php:65
+msgid "Customize Theme"
+msgstr ""
+
+#: welcome/welcome.php:32
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/welcome.php:33
+msgid "Recommended Plugins"
+msgstr ""
+
+#: welcome/welcome.php:35
+msgid "Import Demo"
+msgstr ""
+
+#: welcome/welcome.php:36
+msgid "Support"
+msgstr ""
+
+#: welcome/welcome.php:37
+msgid "Changelog"
+msgstr ""
+
+#: welcome/welcome.php:38
+msgid "More WordPress Stuff"
+msgstr ""
+
+#. 1 - notice title, 2 - notice message
+#: welcome/welcome.php:114
+msgid "Congratulations!"
+msgstr ""
+
+#. %s - theme name
+#: welcome/welcome.php:117
+#, php-format
+msgid ""
+"%s is now installed and ready to use. We've assembled some links to get you "
+"started."
+msgstr ""
+
+#. 1 - url, 2 - button text
+#: welcome/welcome.php:126
+msgid "Try one of our ready to use Starter Sites"
+msgstr ""
+
+#. 1 - options page url, 2 - button text
+#: welcome/welcome.php:132
+msgid "or go to the theme settings"
+msgstr ""
+
+#: welcome/welcome.php:143
+msgid "Sites Library"
+msgstr ""
+
+#. %s - theme name
+#: welcome/welcome.php:145
+#, php-format
+msgid ""
+"%s now comes with a sites library with various designs to pick from. Visit "
+"our collection of demos that are constantly being added."
+msgstr ""
+
+#: welcome/welcome.php:151 welcome/sections/support.php:15
+msgid "Documentation"
+msgstr ""
+
+#. %s - theme name
+#: welcome/welcome.php:153
+#, php-format
+msgid ""
+"Need more details? Please check our full documentation for detailed "
+"information on how to use %s."
+msgstr ""
+
+#: welcome/welcome.php:155
+msgid "Read full documentation"
+msgstr ""
+
+#. %1$s: theme name, %2$s: theme version
+#: welcome/welcome.php:196
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: welcome/welcome.php:230
+msgid "Get connected, share your opinions and more via our social community:"
+msgstr ""
+
+#: welcome/welcome.php:237
+msgid "Are you are enjoying WP Corporate? We would love to hear your feedback."
+msgstr ""
+
+#: welcome/welcome.php:371
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: welcome/welcome.php:380
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: welcome/welcome.php:461 welcome/welcome.php:481
+msgid "Plugin Does not Exists"
+msgstr ""
+
+#: welcome/sections/actions_required.php:142
+msgid "Install"
+msgstr ""
+
+#: welcome/sections/actions_required.php:142
+msgid "Plugin"
+msgstr ""
+
+#: welcome/sections/demo_import.php:117
+msgid "Install : "
+msgstr ""
+
+#: welcome/sections/demo_import.php:117
+msgid " Plugin"
+msgstr ""
+
+#: welcome/sections/getting_started.php:5
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:11
+msgid "Upload Logo"
+msgstr ""
+
+#: welcome/sections/getting_started.php:16
+msgid "Defaut and Basic Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:26
+msgid "Menu Options"
+msgstr ""
+
+#: welcome/sections/getting_started.php:31
+msgid "HomePage Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:36
+msgid "Blog Settings"
+msgstr ""
+
+#: welcome/sections/getting_started.php:57
+msgid "Step 1 - Follow below actions"
+msgstr ""
+
+#: welcome/sections/getting_started.php:58
+msgid ""
+"We've made a checklist for you to take while setting up with our theme. Go "
+"through this and you can have your website ready in minutes."
+msgstr ""
+
+#: welcome/sections/getting_started.php:59
+msgid "Create a post, post category, page."
+msgstr ""
+
+#: welcome/sections/getting_started.php:59
+#: welcome/sections/getting_started.php:60
+msgid "Click here if you need help!"
+msgstr ""
+
+#: welcome/sections/getting_started.php:60
+msgid ""
+"Set page you created to load a custom template \"Homepage\" that came with "
+"theme and set it as frontpage."
+msgstr ""
+
+#: welcome/sections/getting_started.php:61
+msgid "Install required/recommerded plugins (if any)."
+msgstr ""
+
+#: welcome/sections/getting_started.php:62
+msgid "Click Me to install recommended plugins."
+msgstr ""
+
+#: welcome/sections/getting_started.php:68
+msgid "Step 2 - Import Demo Contents"
+msgstr ""
+
+#: welcome/sections/getting_started.php:69
+msgid ""
+"If you like to have a site as similar like our demo then, go to Import Demo "
+"tab and do the needfuls."
+msgstr ""
+
+#: welcome/sections/getting_started.php:70
+msgid "Click Me to import demo contents."
+msgstr ""
+
+#: welcome/sections/getting_started.php:75
+msgid "Step 3 - Check our documentation"
+msgstr ""
+
+#: welcome/sections/getting_started.php:76
+msgid ""
+"Even if you're a long-time WordPress user, we still believe you should give "
+"our documentation a very quick read."
+msgstr ""
+
+#: welcome/sections/getting_started.php:78
+msgid "Full documentation"
+msgstr ""
+
+#: welcome/sections/getting_started.php:83
+msgid "Step 4 - Customize everything"
+msgstr ""
+
+#: welcome/sections/getting_started.php:84
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: welcome/sections/getting_started.php:86
+msgid "Go to Customizer"
+msgstr ""
+
+#: welcome/sections/more_wp.php:7
+msgid ""
+"AND IF THIS THEME HAS IMPRESSED YOU, THEN YOU WOULD ENJOY OUR OTHER PROJECTS "
+"TOO. DO CHECK THESE OUT :"
+msgstr ""
+
+#: welcome/sections/more_wp.php:10
+msgid "Premium WordPress Themes"
+msgstr ""
+
+#: welcome/sections/more_wp.php:10
+msgid ""
+"6 premium WordPress themes well suited for all sort of websites. "
+"Professional, well coded and highly configurable themes for you."
+msgstr ""
+
+#: welcome/sections/more_wp.php:11 welcome/sections/more_wp.php:15
+#: welcome/sections/more_wp.php:21 welcome/sections/more_wp.php:25
+#: welcome/sections/more_wp.php:29
+msgid "Explore"
+msgstr ""
+
+#: welcome/sections/more_wp.php:14
+msgid "Premium WordPress Plugins"
+msgstr ""
+
+#: welcome/sections/more_wp.php:14
+msgid ""
+"45+ premium WordPress plugins of many different types. High user ratings, "
+"great quality and best sellers in CodeCanyon marketplace."
+msgstr ""
+
+#: welcome/sections/more_wp.php:20
+msgid "WPAll Club"
+msgstr ""
+
+#: welcome/sections/more_wp.php:20
+msgid ""
+"A complete WordPress resources club. WordPress tutorials, blogs, curated "
+"free and premium themes and plugins, WordPress deals, offers, hosting info "
+"and more."
+msgstr ""
+
+#: welcome/sections/more_wp.php:24
+msgid "AccessPress Themes"
+msgstr ""
+
+#: welcome/sections/more_wp.php:24
+msgid ""
+"AccessPress Themes has 50+ beautiful and elegant, fully responsive, "
+"multipurpose themes to meet your need for free and commercial basis."
+msgstr ""
+
+#. Author of the theme
+#: welcome/sections/more_wp.php:28
+msgid "8Degree Themes"
+msgstr ""
+
+#: welcome/sections/more_wp.php:28
+msgid ""
+"8Degree Themes offers 15+ free WordPress themes and 16+ premium WordPress "
+"themes  carefully crafted with creativity."
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:41
+#: welcome/sections/recommended_plugins.php:83
+#: welcome/sections/recommended_plugins.php:140
+msgid "Version "
+msgstr ""
+
+#: welcome/sections/support.php:5 welcome/sections/support.php:9
+msgid "Contact Support"
+msgstr ""
+
+#: welcome/sections/support.php:7
+msgid ""
+"We offer excellent support through our website support forum. Just Register "
+"and Post your query and you will be responded by one of our representatives. "
+"Or you can send email at "
+msgstr ""
+
+#: welcome/sections/support.php:7
+msgid "support@8degreethemes.com"
+msgstr ""
+
+#: welcome/sections/support.php:17
+msgid ""
+"This is the place to go to reference different aspects of the theme. Our "
+"online documentation is an incredible resource for learning the ins and outs "
+"of using our theme."
+msgstr ""
+
+#: welcome/sections/support.php:20
+msgid "See our full documentation"
+msgstr ""
+
+#: welcome/sections/support.php:26
+msgid "Video Tutorials"
+msgstr ""
+
+#: welcome/sections/support.php:28
+msgid ""
+"Check our yoututbe video tutorials on setting up themes as well as general "
+"setups. Do not forget to Subscribe to get more videos notifications."
+msgstr ""
+
+#: welcome/sections/support.php:31
+msgid "YoutTube Videos"
+msgstr ""
+
+#. Name of the theme
+msgid "EightLaw Lite"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://8degreethemes.com/"
+msgstr ""

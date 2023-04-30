@@ -1,0 +1,79 @@
+== Changelog ==
+
+@Version 2.0
+1. Added Header Sidebar.
+
+@Version 2.1
+1. Update Pagiantion Color.
+
+@Version 2.1.1
+1. Updated Strings
+
+@Version 2.1.2
+1. Revise Upgrade To Pro link.
+
+@Version 2.1.3
+1. Added dummy data import setting.
+
+@Version 2.1.4
+1. Update Author URI and Theme URI change http to https secure.
+
+@Version 2.1.5
+1. Update String.
+
+@Version 2.1.6
+1. Update String.
+
+@Version 2.1.7
+1. Add alt tag on logo.
+
+@Version 2.2
+1. Implement the Accessibility including skip to content and keyboard navigation.
+2. Changed the screenshot image.
+3. Changed the Header section variation and Service section variation.
+4. Fixed escaping and sanitizing issues.
+5. Fixed all the other issues.
+
+@Version 2.2.1
+1. Added the parent theme license in the readme file.
+2. Changed the tested up to in style.css and a readme file.
+3. Fixed the customizer console error.
+
+@Version 2.2.2
+1. Removed default value like '#' from social icons.
+
+@Version 2.2.3
+1. Added condition for pingback_url.
+
+@Version 2.2.4
+1. Added the contact form 7 image license.
+2. Fixed the prefix issues and removed the unnecessary code.
+
+@Version 2.2.5
+1. Fixed "WBR: Header Widget" and footer empty markup issues.
+
+@Version 2.2.6
+1. Removed the Google plus social icon.
+
+@Version 2.3
+1. Added custom color & typography features.
+2. Changed typography of the theme.
+
+@Version 2.3.1
+1. Fixed theme check warnings.
+2. Fixed widget design issues with WordPress 5.8.
+
+@Version 2.3.2
+1. Removed unnecessary code.
+
+@Version 2.3.3
+1. Updated some strings.
+
+@Version 2.3.4
+1. Fixed the issues with PHP 8.
+
+@version 2.3.5
+1. Fixed service section clearfix issue.
+
+@version 2.3.6
+1. Recommended the Post Slider and Seo Optimized Images plugin on the options page.
