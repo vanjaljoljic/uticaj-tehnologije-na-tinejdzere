@@ -1,6 +1,0 @@
-/********* Menu Animation wobble **********/
-
-nav ul li:hover > ul {
-  -webkit-animation-name: wobble;
-  animation-name: wobble;
-}
